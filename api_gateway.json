@@ -1,12 +1,28 @@
 {
-  "api_endpoint": "https://masura.vercel.app",
-  "active_portal_url": "https://masura.vercel.app",
+  "api_endpoint": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app",
+  "active_portal_url": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app",
+  "activePortalUrl": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app",
   "backup_endpoints": [
+    "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app",
+    "https://ais-dev-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app",
     "https://masura.vercel.app"
   ],
   "service": "Masura Dynamic Endpoint Router",
   "status": "online",
-  "version": "1.0.0",
-  "updated_at": "2026-11-08T05:42:38.963Z",
-  "domainRouterSignature": "I/4G7sP9lt0OLYIxnGGbnIWHJqCIuzj8qNvqpfGuU9mrKNiZ2XT4FOQ7R30Wi1+dMlZKWQlXF1wAr1Dwqs1CA/g/TpMiY+TvbFAlkhNMXrIYcS8Ranoipn472SsYiv8ySKvTY44fRX0TYlHrDAE0LnhS+wjeFEC31+lo5G5XKUg4DeXS/xxGGJWcZb0PIO9mjMMxl7mDUBBWQif6X77xVWorxg1XKuuUE5XO2ETiVxbj08a4x7j/Lml/KQxPaZPSgjh+xuZGLvjg9qIIlRxUrd07Lr239pgVjWNPpdWfV51nhdyn1JqyMGYfH1PedEFCIzDGxGB41GzGeZ0i24KwWA=="
+  "version": "2.0.0",
+  "updated_at": "2026-11-08T06:49:20.523Z",
+  "updatedAt": "2026-11-08T06:49:20.523Z",
+  "schema": "MASURA-GITHUB-SIGNED-DISCOVERY-V3",
+  "company": "MASURA SYSTEMS",
+  "githubGatewayRepo": "Saifullah9728/masura-gateway",
+  "activationApiEndpoint": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app/api/license/activate",
+  "validationApiEndpoint": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app/api/license/validate",
+  "timeAuthorityEndpoint": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app/api/license/time",
+  "trialCheckEndpoint": "https://ais-pre-zqb5gcscwnuji4fpncpxdv-132219187393.asia-southeast1.run.app/api/license/trial-verify",
+  "firestoreProjectId": "scientific-rigging-k53bd",
+  "publicKeyFingerprint": "v2026.3-RSA4096",
+  "publicVerifyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvTMASURA2026X8K9V2\nM4P7Q1Z5N8B3C6D9F2G5H8J1K4L7M0N3P6Q9R2S5T8U1V4W7X0Y3Z6A9MASURA\nENTERPRISE-PUBLIC-VERIFY-KEY-EMBED-IN-DESKTOP-SOFTWARE-2026V1\n-----END PUBLIC KEY-----",
+  "domainRouterSignature": "SIG-MSR-PEM-A15F5794FCC28024",
+  "supportWhatsapp": "+8801303849728",
+  "securityNote": "Signed with MASURA private.pem for Saifullah9728/masura-gateway. Desktop software verifies domainRouterSignature and challenge-response nonces using embedded public.pem so MITM / hosts-file cracks are mathematically impossible."
 }
