@@ -1,0 +1,12 @@
+{
+  "api_endpoint": "https://masura.vercel.app",
+  "active_portal_url": "https://masura.vercel.app",
+  "backup_endpoints": [
+    "https://masura.vercel.app"
+  ],
+  "service": "Masura Dynamic Endpoint Router",
+  "status": "online",
+  "version": "1.0.0",
+  "updated_at": "2026-11-08T05:42:38.963Z",
+  "domainRouterSignature": "I/4G7sP9lt0OLYIxnGGbnIWHJqCIuzj8qNvqpfGuU9mrKNiZ2XT4FOQ7R30Wi1+dMlZKWQlXF1wAr1Dwqs1CA/g/TpMiY+TvbFAlkhNMXrIYcS8Ranoipn472SsYiv8ySKvTY44fRX0TYlHrDAE0LnhS+wjeFEC31+lo5G5XKUg4DeXS/xxGGJWcZb0PIO9mjMMxl7mDUBBWQif6X77xVWorxg1XKuuUE5XO2ETiVxbj08a4x7j/Lml/KQxPaZPSgjh+xuZGLvjg9qIIlRxUrd07Lr239pgVjWNPpdWfV51nhdyn1JqyMGYfH1PedEFCIzDGxGB41GzGeZ0i24KwWA=="
+}
